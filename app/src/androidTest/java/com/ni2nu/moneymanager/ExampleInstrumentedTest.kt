@@ -1,4 +1,4 @@
-package com.nurma.moneymanager
+package com.ni2nu.moneymanager
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.nurma.moneymanager
+package com.ni2nu.moneymanager
 
 import org.junit.Test
 
